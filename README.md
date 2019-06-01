@@ -1,6 +1,5 @@
 # Snowtricks-Projet-6
 
-<p><a href="https://site4.bella-web.eu/">Online project</a></p>
 <p>The projet is created for the curcus of OpenClassrooms.</p>
 <p>The project must be created about the snow trick community , and without any Bundle.</p>
 <p>Developped with the Symfony 4 framework.</p>
